@@ -1,7 +1,9 @@
-# Proyecto de programación
+## Proyecto de programación
 
 <hr>
-## Integrantes
+<div align="center">
+## Integrantes  
+</div>
 
 1. David Basantes
 2. Miguel Carapaz
